@@ -9,16 +9,22 @@ A basic warmup exercise. Simple, practice oriented, Account and Otp authenticati
 # Built with:
 
 HTML
+
 CSS
+
 JAVASCRIPT
+
 BOOTSTRAP
+
 FIREBASE
 
 
-What it does?
+# What it does?
 
 Look pretty, that's about it :-)
  
 
- Contribution
+ # Contribution
+
+
 Contributions are highly welcome. Feel free to fork, clone, make pull requests, report issues etc.
